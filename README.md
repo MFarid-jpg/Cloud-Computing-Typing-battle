@@ -15,9 +15,9 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 
 ## Link Penting
 * **Video Demo:** [MASUKKAN LINK YOUTUBE DI SINI]
-* **Proposal PDF:** [Link ke file Proposal.pdf di repository]
-* **Laporan Akhir PDF:** [Link ke file Laporan_Akhir.pdf di repository]
-* **Slide Presentasi PDF:** [Link ke file Presentasi.pdf di repository]
+* **Proposal PDF:** [Proposal Game Typing Battle - Kelompok 8 (Diperluas).pdf](./Proposal%20Game%20Typing%20Battle%20-%20Kelompok%208%20(Diperluas).pdf)
+* **Laporan Akhir PDF:** [Laporan_Final_Typing_Battle_kelompok_5.docx](./Laporan_Final_Typing_Battle_kelompok_5.docx)
+* **Slide Presentasi PDF:** [Analisis Sistem Typing Battle.pdf.pptx](./Analisis%20Sistem%20Typing%20Battle.pdf.pptx)
 
 ## Teknologi yang Digunakan
 * PHP Native (API & CLI)
