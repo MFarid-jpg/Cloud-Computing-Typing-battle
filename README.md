@@ -11,7 +11,7 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 | Muhammad Naufal Hafiz | 2410010089 | Frontend |
 | Muhammad Rizky Khalis | 2410010341 | Database |
 | Mohammad Nawfal Al Hafizd | 2410010633 | Statistik & Analisis |
-| Zainal Hamwi | 2410010025 | UI/UX & Laporan |
+| Zainal Hamwi | 2410010025 | UI/UX & Laporan | 
 
 ## Link Penting
 * **Video Demo:** [MASUKKAN LINK YOUTUBE DI SINI]
