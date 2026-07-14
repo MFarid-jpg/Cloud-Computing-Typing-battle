@@ -31,6 +31,8 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 
 2. **Lobby:** <img width="1919" height="1025" alt="Lobby" src="https://github.com/user-attachments/assets/0a0697af-0c43-4970-8f01-2117a933ea8c" />
 3. **Gameplay:** <img width="1919" height="1025" alt="Gameplay" src="https://github.com/user-attachments/assets/15be1b79-0af6-4cff-a6db-e48acefa4581" />
+4. **GameResult:** <img width="1919" height="1027" alt="GameResult" src="https://github.com/user-attachments/assets/4943a130-4e5c-4d8d-9c87-0b77f713924f" />
+
 
 ## Cara Menjalankan Sistem
 1. Pastikan Laragon sudah terinstal.
