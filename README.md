@@ -1,3 +1,4 @@
+<img width="1919" height="1023" alt="Screenshot 2026-07-10 235417" src="https://github.com/user-attachments/assets/50ffb497-ccc3-47bb-9342-2f6c5259d3b7" />
 # Cloud-Computing-Typing-battle
 
 # Typing Battle - Game Multiplayer
@@ -27,7 +28,8 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 
 ## Screenshot Sistem
 *(Pastikan Anda sudah mengupload 3 file gambar screenshot ke repository ini)*
-1. **Halaman Login:** ![Login](./login.png)
+1. **Halaman Login:** ![Login](./login.png)<img width="1919" height="1023" alt="Login" src="https://github.com/user-attachments/assets/2498b44a-4774-47c7-bb66-8dc30d2071bb" />
+
 2. **Lobby:** ![Lobby](./lobby.png)
 3. **Gameplay:** ![Game](./game.png)
 
