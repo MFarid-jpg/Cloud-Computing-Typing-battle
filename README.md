@@ -29,7 +29,7 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 *(Pastikan Anda sudah mengupload 3 file gambar screenshot ke repository ini)*
 1. **Halaman Login:** <img width="1919" height="1023" alt="Login" src="https://github.com/user-attachments/assets/2498b44a-4774-47c7-bb66-8dc30d2071bb" />
 
-2. **Lobby:** ![Lobby](./lobby.png)
+2. **Lobby:** <img width="1919" height="1025" alt="Lobby" src="https://github.com/user-attachments/assets/0a0697af-0c43-4970-8f01-2117a933ea8c" />
 3. **Gameplay:** ![Game](./game.png)
 
 ## Cara Menjalankan Sistem
