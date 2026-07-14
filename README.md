@@ -27,7 +27,7 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 
 ## Screenshot Sistem
 *(Pastikan Anda sudah mengupload 3 file gambar screenshot ke repository ini)*
-1. **Halaman Login:** ![Login]<img width="1919" height="1023" alt="Login" src="https://github.com/user-attachments/assets/2498b44a-4774-47c7-bb66-8dc30d2071bb" />
+1. **Halaman Login:** <img width="1919" height="1023" alt="Login" src="https://github.com/user-attachments/assets/2498b44a-4774-47c7-bb66-8dc30d2071bb" />
 
 2. **Lobby:** ![Lobby](./lobby.png)
 3. **Gameplay:** ![Game](./game.png)
