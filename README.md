@@ -1,4 +1,3 @@
-<img width="1919" height="1023" alt="Screenshot 2026-07-10 235417" src="https://github.com/user-attachments/assets/50ffb497-ccc3-47bb-9342-2f6c5259d3b7" />
 # Cloud-Computing-Typing-battle
 
 # Typing Battle - Game Multiplayer
