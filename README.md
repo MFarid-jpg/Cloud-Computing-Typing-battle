@@ -39,8 +39,8 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kulia
 2. Nyalakan Apache dan MySQL.
 3. Import file `typing_battle.sql` ke database MySQL.
 4. Letakkan folder project di `C:\laragon\www\`.
-5. Jalankan daemon WebSocket dengan perintah: `php server.php` di terminal.
-6. Akses melalui browser: `http://localhost/typing-battle`.
+5. Jalankan daemon WebSocket dengan perintah: `cd Typing-battle` di terminal.
+6. Akses melalui browser: `http://localhost/typing-battle`. Untuk multiplayer, player lain ketik di browser: "http://(IPV4 Address)/typing-battle".
 
 ## Analisis Statistik
 Analisis data performa pemain (WPM, Akurasi, dan Error Rate) telah dilampirkan lengkap dalam dokumen **Laporan Akhir**.
