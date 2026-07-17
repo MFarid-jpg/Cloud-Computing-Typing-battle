@@ -14,7 +14,7 @@ Game ini dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing.
 | Zainal Hamwi | 2410010025 | UI/UX & Laporan | 
 
 ## Link Penting
-* **Video Demo:** [MASUKKAN LINK YOUTUBE DI SINI]
+* **Video Demo:** https://drive.google.com/file/d/13SUS2cnfBy5lgQmZvYJxK0FXTTGRuF6G/view?usp=sharing
 * **Proposal PDF:** [Proposal Game Typing Battle - Kelompok 8 (Diperluas).pdf](./Proposal%20Game%20Typing%20Battle%20-%20Kelompok%208%20(Diperluas).pdf)
 * **Laporan Akhir PDF:** [Laporan Final Typing Battle kelompok 5.pdf](./Laporan%20Final%20Typing%20Battle%20kelompok%205.pdf)
 * **Slide Presentasi PDF:** [Analisis Sistem Typing Battle.pdf.pdf](./Analisis%20Sistem%20Typing%20Battle.pdf.pdf)
